@@ -1,0 +1,30 @@
+<!-- Requisição HTTP -->
+
+<!-- URL PATH E METHOD -->
+
+<!-- URL: https://pokeapi.co/api/v2/pokemon/${id}
+     ${IP}/${path = caminho de identificação do recurso} -->
+
+<!-- IP: https://pokeapi.co -> Alguem faz a conversão desse dominio em um ip como o de baixo.
+    https://127.0.0.1:3000 -->
+
+<!-- Request Method: GET; POST; PUT; DELETE; PATCH;
+
+Se a API seguir os principios REST, o que acontecerá é:
+
+POST -> INSERIR RECURSO NOVO
+PUT -> ATUALIZAR RECURSO
+DELETE -> DELETAR RECURSO
+GET -> BUSCAR RECURSO
+PATCH -> APLICA MODIFICAÇÕES PARCIAIS AO RECURSO.
+
+"Toda a requisição pra um recurso, o método diz o que a gente quer fazer sobre esse recurso, principalmente nas API's que seguem os padrões REST." -->
+
+<!-- *PATH PARAMS E QUERY STRING -->
+
+<!-- QUERY STRING -> DESCRIÇÃO DE BUSCA. SEMPRE TERÁ A ESTRUTURA CHAVE E VALOR.-->
+<!-- 
+Request Headers:
+     Configuração
+Response Headers:
+     Configuração -->
